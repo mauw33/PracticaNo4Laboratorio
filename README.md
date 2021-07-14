@@ -36,7 +36,7 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 ### 5.1 Arme el circuito que se presenta en la figura 4.1.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo4/1.jpg)
  
 Figura 4.1. Circuito para comprobar el Teorema de Superposición.
 
@@ -44,25 +44,25 @@ Figura 4.1. Circuito para comprobar el Teorema de Superposición.
 
  Circuito en Multisim con las dos fuentes de voltaje.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo4/2.jpg)
  
 ### 5.3 Haga "cero" la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 Circuito con el teorema de superosición
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo4/3.jpg)
 
 ### 5.4 Haga "cero" la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 Circuito con el teorema de superosición
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo4/4.jpg)
 
 ### 5.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](LaboratorioNo4/5.jpg)
+![Screenshot](LaboratorioNo4/6.jpg)
+![Screenshot](LaboratorioNo4/7.jpg)
 
 6. VIDEO
 
@@ -75,3 +75,4 @@ Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de su
 
 8. BIBLIOGRAFIA
 
+Youtu.be. 2021. Before you continue to YouTube. [online] Available at: <https://youtu.be/AsjT9jO8new> [Accessed 14 July 2021].
