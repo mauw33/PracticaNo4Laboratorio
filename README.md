@@ -66,7 +66,7 @@ Circuito con el teorema de superosición
 
 6. VIDEO
 
-
+https://youtu.be/iGWKj78o0QY
 
 7. CONCLUSIONES
 
